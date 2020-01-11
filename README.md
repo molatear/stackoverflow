@@ -1,4 +1,4 @@
-
+This is a GitHub repo cloned from the Udacity course Data Science Nanodegree to practice the use of GitHub
 ### Table of Contents
 
 1. [Installation](#installation)
